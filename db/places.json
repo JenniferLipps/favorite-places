@@ -1,0 +1,58 @@
+{
+  "places": [
+    {
+      "cityName": "Portland",
+      "cityState": "Maine",
+      "cityImage": "https://www.flickr.com/photos/coreytempleton/10732669604",
+      "favoriteRestaurant": "Highroller Lobster Co",
+      "favoriteBar": "The Thirsty Pig",
+      "favoriteHotel": "Inn at St John",
+      "favoriteTouristAttraction": "Old Orchard Beach"
+    },
+    {
+      "cityName": "St. Paul",
+      "cityState": "Minnesota",
+      "cityImage": "https://pixabay.com/photos/st-paul-minnesota-ice-festival-210461/",
+      "favoriteRestaurant": "Mickey's Diner",
+      "favoriteBar": "The Thirsty Pig",
+      "favoriteHotel": "Turf Club",
+      "favoriteTouristAttraction": "Winter Carnival"
+    },
+    {
+      "cityName": "Buffalo",
+      "cityState": "New York",
+      "cityImage": "https://3.cdnpt.com/Destinations/1274/1274/bufalo-3693588387-L.jpg",
+      "favoriteRestaurant": "Tappo",
+      "favoriteBar": "Angleica Tea Room",
+      "favoriteHotel": "Hotel Lafayette",
+      "favoriteTouristAttraction": "Shark Girl"
+    },
+    {
+      "cityName": "Pittsburgh",
+      "cityState": "Pennsylvania",
+      "cityImage": "https://c1.staticflickr.com/8/7884/31566392277_0664daf0d0_b.jpg",
+      "favoriteRestaurant": "Primanti Bros.",
+      "favoriteBar": "Bar 11",
+      "favoriteHotel": "Ace Hotel",
+      "favoriteTouristAttraction": "Andy Warhol Museum"
+    },
+    {
+      "cityName": "Kalamazoo",
+      "cityState": "Michigan",
+      "cityImage": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kalamazoo.jpg",
+      "favoriteRestaurant": "Old Dog Tavern",
+      "favoriteBar": "One Well Brewing",
+      "favoriteHotel": "Henderson Castle Inn",
+      "favoriteTouristAttraction": "Bell's Brewery"
+    },
+     {
+     "cityName": "Madison",
+     "cityState": "Wisconsin",
+     "cityImage": "https://farm8.staticflickr.com/7189/6787295760_a994fb0242_b.jpg",
+     "favoriteRestaurant": "Tipsy Cow",
+     "favoriteBar": "Great Dane Pub",
+     "favoriteHotel": "Edgewater",
+     "favoriteTouristAttraction": "National Mustard Museum"
+     }
+  ]
+}

@@ -1,6 +1,6 @@
 # Favorite Places
 
-This page drawns on a json file that contains information about favorite features in favorite cities.
+This page draws on a json file that contains information about favorite features in favorite cities.
 
 # Prerequisites
 
