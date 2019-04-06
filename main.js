@@ -1,9 +1,26 @@
+let places = [];
+
+const printToDom = (divId, textToPrint) => {
+    const selectedDiv = document.getElementById(divId);
+    selectedDiv.innerHTML = textToPrint;
+};
+
+const domStringBuilder = (allCities) => {
+    let domString = '';
+    allCities.forEach((city) => {
+        domString += `<h3>${city.cityName}</h3>`
+    })
+  printToDom('favCities', domString);
+};
+
 function successCode() {
-    console.log('success');
+    const data = JSON.parse(this.responseText)
+    places = data.places;
+    domStringBuilder(data.places);
 }
 
 function failedCode() {
-    console.error('shit');
+    console.error('oops');
 }
 
 const getCityData = () => {
@@ -12,7 +29,6 @@ const getCityData = () => {
   cityRequest.addEventListener('error', failedCode);
   cityRequest.open('GET', './db/places.json');
   cityRequest.send();
-  console.log(cityRequest);
 };
 
 const init = () => {
