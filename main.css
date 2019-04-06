@@ -1,3 +1,19 @@
 body {
     background-color: teal;
 }
+
+#card-head {
+    border: solid 1px teal;
+    background-color: lightsalmon;
+}
+
+#best-text {
+    border: solid 1px teal;
+    padding: 5px;
+    color: black;
+    background-color: lightgray;
+}
+
+#city-image {
+    border: solid 1px teal;
+}
