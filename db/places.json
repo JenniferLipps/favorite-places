@@ -4,9 +4,9 @@
       "cityName": "Portland",
       "cityState": "Maine",
       "cityImage": "https://farm9.staticflickr.com/8056/8110893464_daec16d5df_b.jpg",
-      "favoriteRestaurant": "Highroller Lobster Co",
+      "favoriteRestaurant": "Highroller Lobster Co.",
       "favoriteBar": "The Thirsty Pig",
-      "favoriteHotel": "Inn at St John",
+      "favoriteHotel": "Inn at St. John",
       "favoriteTouristAttraction": "Old Orchard Beach"
     },
     {
@@ -14,7 +14,7 @@
       "cityState": "Minnesota",
       "cityImage": "https://cdn.pixabay.com/photo/2015/07/30/22/11/st-paul-868421_960_720.jpg",
       "favoriteRestaurant": "Mickey's Diner",
-      "favoriteBar": "The Thirsty Pig",
+      "favoriteBar": "Dark Horse Bar & Eatery",
       "favoriteHotel": "Turf Club",
       "favoriteTouristAttraction": "Winter Carnival"
     },
@@ -23,7 +23,7 @@
       "cityState": "New York",
       "cityImage": "https://3.cdnpt.com/Destinations/1274/1274/bufalo-3693588387-L.jpg",
       "favoriteRestaurant": "Tappo",
-      "favoriteBar": "Angleica Tea Room",
+      "favoriteBar": "Angelica Tea Room",
       "favoriteHotel": "Hotel Lafayette",
       "favoriteTouristAttraction": "Shark Girl"
     },
