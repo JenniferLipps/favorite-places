@@ -13,5 +13,3 @@ This page draws on a json file that contains information about favorite features
 ## Running
 
 Browse to project URL and run http server
-
-```$ hs -p 5000```
